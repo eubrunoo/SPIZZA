@@ -62,8 +62,7 @@ class Sabores():
         print('-------------------------')
         sabor_selecionado1 = int(input('Qual o primeiro sabor da sua Pizza? '))
         if sabor_selecionado1 == 1:
-            main_instance.limpeza()
-            main_instance.cardapio()
+            self.voltar()
         else:            
             sabor_selecionado2 = int(input('\nQual o segundo sabor da sua Pizza? '))
             if sabor_selecionado2 == 1:
