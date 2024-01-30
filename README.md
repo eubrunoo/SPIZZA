@@ -18,5 +18,5 @@ O projeto ainda está em fase inicial, e muitas melhorias estão por vir. Sua pa
 **Nota:** Este é um projeto fictício criado para fins educacionais. Não representa um sistema funcional e não tem intenção de ser usado comercialmente.
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DDEVELOPMENT&color=GREEN&style=for-the-badge"/>
 </p>
